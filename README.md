@@ -1,2 +1,2 @@
-Assignment 4: WebGL without a framework!
+A spaceship adventure game built using  WebGL!
 
